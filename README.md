@@ -1,5 +1,4 @@
 # Movies-ETL.
-Initial repo construction
 
 ## Summary
 Welcome to the Extract-Transform-Load(ETL) script.  This script is designed to bring together data about movies from Wikipedia and Kaggle and to prepare them for you to analyze!  To download the most recent versions of the data files that this code was built to accomodate, click on the links below:
