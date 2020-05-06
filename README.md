@@ -19,6 +19,6 @@ In order to run this script, you will need three files:
   * movies_metadata.csv
   * ratings.csv
 
-![View the code here.](/Challenge.py)
+[View the code here.](/Challenge.ipynb)
 
 Last Updated: May 6, 2020
